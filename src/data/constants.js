@@ -1,15 +1,15 @@
 export const Bio = {
   name: "Manish Patadiya",
   roles: [
-    "MERN stack Developer",
     "React Js Developer",
+    "React Native Developer",
     "Programmer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/manishp3",
   resume:
-    "https://drive.google.com/file/d/1MQviOE5Ezg6tdy3chFuigvhghRMq9Sbz/view?usp=sharing",
+    "https://drive.google.com/file/d/1wcaI8N4OTEZmuLAvGOk-7aabfzq60Jdu/view?usp=sharing",
   linkedin: "linkedin.com/in/patadiya-manish-37a20022a",
   // twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/manish.prajapati_7043?utm_source=qr&igsh=MWZuMTUxd2MxbWdwZQ== ",

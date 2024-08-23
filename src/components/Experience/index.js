@@ -80,7 +80,7 @@ const index = () => {
             <Wrapper>
                 <Title>Experience</Title>
                 <Desc>
-                  <h3> I am Looking for JS based framework Job Opportunity,In Present time my focus to get grip in ReactJs and NodeJs that helps to become a full stack Developer using MERN stack...</h3>
+                  <h3> I have recently started working as a React and React Native developer at AVANZAR SOLUTION, focusing on creating dynamic and responsive applications for both web and mobile platforms. I am passionate about building efficient, user-centered solutions while continuously learning and improving my skills in front-end development.</h3>
                 </Desc>
                 <TimelineSection>
                     <Timeline>
